@@ -2,6 +2,6 @@
 
 Some description!
 
-## Subchapter
+## Subheader
 
 Tutorial.
